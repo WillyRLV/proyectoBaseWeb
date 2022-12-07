@@ -1,8 +1,7 @@
 {
-  "timeZone": "America/New_York",
+  "timeZone": "America/Lima",
   "dependencies": {
-  },
-  "webapp": {
+  },"webapp": {
     "access": "MYSELF",
     "executeAs": "USER_DEPLOYING"
   },
